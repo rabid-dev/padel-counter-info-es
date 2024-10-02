@@ -1,4 +1,4 @@
-# Welcome to Padel Counter Documentation!
+# ¡Bienvenido a la Documentación de Contador Pádel!
 
 ![Padel Counter](./assets/padelcountertitle.png "Padel Counter"){: style="display:block;margin-left:auto;margin-right:auto;width:75%"}
 
