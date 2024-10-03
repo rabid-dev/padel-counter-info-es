@@ -1,29 +1,34 @@
-# ITAG Devices
+# Dispositivos ITAG
 
 ![ITag](../assets/itag.jpg "ITag"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-In this screen you can pair and manage ITAG Devices.
+En esta pantalla puedes emparejar y gestionar Dispositivos ITAG.
 
-ITAG devices are Bluetooth Low Energy devices mainly used for finding out things you might have lost nearby.
-One example of such a device is this one:
+Los dispositivos ITAG son dispositivos Bluetooth de bajo consumo que se usan principalmente para encontrar cosas cercanas que hayas perdido. Un ejemplo de un dispositivo así es este:
 
 ![ITagDevice](../assets/itagdevice.png "ITagDevice"){: style="display:block;margin-left:auto;margin-right:auto;width:30%;padding-top:10px;padding-bottom:10px;"}
 
-Any device with ITAG on their name with a button that is a Bluetooth low energy device will work.
-
-They're devices that function via bluetooth with low power consumption and they have a button which we will use to increase or decrease the score of each team.
+Cualquier dispositivo con ITAG en su nombre y con un botón que sea un dispositivo Bluetooth de bajo consumo debería funcionar.
 
 !!! warning
-    After a lot of developing and testing I came to the conclusion that **they are not as reliable as a traditional bluetooth controller**.
+    No garantizo que absolutamente todos los dipositivos ITAG vayan a funcionar.
 
-    They tend to disconnect when being farther than 5-8 meters, which is less than the typical court size, and can have problems with bluetooth speakers.
+Lo importante es que son dispositivos que funcionan por bluetooth de bajo consumo y tienen un botón que usaremos para incrementar la puntuación de cada equipo.
 
-    For this reason, **unfortunately I do not recommend using them**. They work but they often give problems.
+!!! warning
+    Después de mucho desarrollo y testeo llegué a la conclusión de que estos dipositivos **no son tan fiables como los controladores/mandos bluetooth habituales**.
 
-    I spent too much time trying to debug them, if someone wants to help making these more reliable please [contact me](../help.md)
+    Tienden a desconectarse cuando se encuentran a 5/8 metros de distancia, lo cual es menos que el tamaño habitual de una pista de pádel, y pueden dar interferencias o problemas con altavoces bluetooth.
 
-To pair them, once you have enabled location and bluetooth on your device you will see the list of available ITAG devices.
+    Por este motivo, **desgraciadamente no recomiendo usarlos.** Funcionan pero a menudo dan problemas.
 
-You have to pair one for each team by clicking on the assign button and the app will automatically try to connect every time it detects one.
+    Invertí demasiado tiempo en intentar debuggearlos y hacer que funcionaran bien. Si alguien que sepa más que yo del tema quiere ayudar, por favor que se ponga [en contacto conmigo](../help.md)
 
-After being paired you can directly use them by clicking the buttons. You can use the tester in this same screen to test the buttons.
+Para emparejar un dispositivo ITAG, una vez que hayas activado el bluetooth y la ubicación verás la lista de dispositivos ITAG disponibles.
+
+!!! note
+    Contador Pádel NUNCA usará tu ubicación para ningún fin. Android requiere este permiso para utilizar dispositivos bluetooth de bajo consumo.
+
+Deberás emparejar un dispositivo por cada equipo haciendo clic el botón `Asignar` y con eso la aplicación intentará conectarse a dicho dispositivo cada vez que detecte uno.
+
+Después de emparejarlo, puedes usarlo directamente haciendo clic en su botón. Puedes usar el tester que hay en esta misma pantalla para probar los botones.

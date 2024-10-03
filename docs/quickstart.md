@@ -1,46 +1,34 @@
-# Quick Start Guide
+# Guía de Inicio Rápido
 
-Using Padel Counter is easy! On the main screen you just hit the `Play` button to start
-configuring the settings of the match.
+¡Es facilísimo usar Contador Pádel! En la pantalla principal solo tienes que pulsar el 
+botón de `Jugar` para empezar a configurar los ajustes del partido.
 
 ![Main](./assets/main.png "Main"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-If you want to customize your experience before starting a match, you can go to the
-`Settings` section by clicking the `Settings` button. More details on the available Settings
-[here](./settings/index.md).
+Si quieres cambiar los ajustes antes de empezar un partido, puedes ir a la sección de `Ajustes` pulsando el botón de `Ajustes`. Tienes más detalles sobre los ajustes disponibles [aquí](./settings/index.md).
 
-After hitting the `Play` button you will be redirected to the `Match Settings`. In this screen
-you can configure the rule set for the match you're about to play. You can check more details of
-each setting in the [Match Settings](./counter/match.md) page.
+Después de darle al botón `Jugar` se te redirigirá a la pantalla de `Opciones de Partido`. En esta pantalla puedes configurar las reglas del partido que vas a jugar. Puedes consultar más detalles acerca de cada ajuste en la página de [Opciones de Partido](./counter/match.md).
 
 ![Match Settings](./assets/matchsettings.png "Match Settings"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-Once you have your rule set configured, you will go to the `Team Select` screen, where you have
-to choose the teams that will play in the match. By default there are 2 predefined teams in case
-you don't want to spend time inputting the team data for both teams. More details about
-adding/removing/editing teams in the [Team Select](./counter/teams.md) page.
+Una vez definidas las reglas del partido, pasarás a la pantalla de `Selección de Equipos`, donde tendrás que elegir los equipos que jugarán el partido. Por defecto vienen 2 equipos predefinidos ya seleccionados en caso de que no quieras invertir tiempo en rellenar la información de los equipos para ambos equipos. Tienes más detalles sobre cómo añadir/quitar/editar equipos en la página de [Selección de Equipos](./counter/teams.md).
 
 ![Team Select](./assets/teamselect.png "Team Select"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-Clicking the `Start` button will take you to the **Padel Counter**.
+Haciendo clic en el botón de `Comenzar` irás directo al **Contador Pádel**.
 
 ![Counter](./assets/counter.png "Counter"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-Once you're in here, you can double tap the side of the screen corresponding to each team to
-increment their score. If you're using a remote controller and you remapped some keys/buttons
-to the increment score actions of each team, by double clicking/pressing that input you'll also
-increment the score.
+Una vez aquí, puedes tocar dos veces la pantalla en el lado del equipo al que quieras incrementarle la puntuación. Si estás usando un mando/teclado remoto y has remapeado alguna tecla o botón para incrementar la puntuación, pulsando dos veces dicha entrada también aumentarás la puntuación.
 
-If you make a mistake you can click the menu at the bottom right corner and click `UNDO` to undo your last scoring. More details on the options within this menu on the [Counter Details](./counter/counter.md) page.
+Si te equivocas siempre puedes pulsar el botón de menú de la esquina inferior derecha y hacer clic en `DESHACER` para deshacer tu último incremento. Tienes más detalles sobre las opciones disponibles en este menú en la página de [Pantalla del Contador](./counter/counter.md).
 
-The match will continue until one team wins. Alternatively you can exit the match by clicking
-on the menu, scrolling left and clicking on the `Leave` button.
+El partido continuará hasta que uno de los equipos gane. Si no, siempre puedes salir del partido clicando en el menú de la esquina inferior derecha, haciendo un poco de scroll hacia la izquierda y haciendo clic en el botón `Dejar partido`.
 
 ![Leave](./assets/leave.png "Leave"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-And that's it! You know the basics of controlling Padel Counter.
+¡Y ya estaría! Ahora ya sabes todo lo básico para controlar Contador Pádel.
 
-You can keep reading more about other options and details by navigating through the rest of
-the pages in the sidebar.
+Puedes seguir leyendo más acerca de otras opciones y detalles siguiendo los links al resto de páginas en la barra lateral.
 
-You can start by checking the [Counter Configuration](./counter/index.md) page.
+Puedes empezar por echarle un ojo a la sección [Opciones del Contador](./counter/index.md).

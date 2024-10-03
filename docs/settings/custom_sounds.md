@@ -1,58 +1,57 @@
-# Custom Sounds
+# Sonidos Extra
 
 ![CustomSounds](../assets/customsounds.png "CustomSounds"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-In this screen you can add/edit/remove custom sounds that will be played during your padel matches.
+En esta pantalla puedes añadir/editar/quitar sonidos extra que se reproducirán durante los partidos.
 
-Custom sounds are short sounds that will be played on different circumstances, adding a little bit of fun or spice to the match.
+Los sonidos extra son sonidos cortos que se reproducirán en diferentes circunstancias, añadiendo un poco de chispa y risas a la partida.
 
-In order to use them, remember to enable the [Custom Sounds Setting](./general.md#enable-custom-sounds) at the [General Settings Tab](./general.md).
+Para usarlos recuerda que tienes que activar la opción [Activar Sonidos Extra](./general.md#activar-sonidos-extra) en la pestaña de [Ajustes Generales](./general.md).
 
-## Categories of custom sounds
+## Categorías de Sonidos Extra
 
-As of today custom sounds can be played on these events.
+A día de hoy los sonidos extra se reproducirán en las siguientes circunstancias.
 
-- On scoring.
-- On game won.
-- On game won perfectly, this means winning by 40-0.
-- On game won quickly, this means winning by 40-0 and under a certain amount of time.
-- When scoring a comeback. A comeback happens when a team is winning by 40-0 then the losing team scores up to 40-40
-  and it's 1 point away of winning the game.
-- On game won by comeback. After a scoring comeback event, if the team that was losing initially finally wins, this event will happen.
-- On set won.
-- On match won.
+- Al puntuar.
+- Al ganar un juego.
+- Al ganar un juego perfecto, esto significa ganar por 40-0.
+- Al ganar un juego rápidamente, esto significa ganar por 40-0 y en un corto periodo de tiempo.
+- Al hacer un punto de remontada. Una remontada sucede cuando un equipo va ganando por 40-0 pero luego el otro equipo va puntuando hasta llegar a 40-40 y está a 1 punto de ganar el juego.
+- Al ganar un juego por remontada. Después de hacer un punto de remontada, si finalmente el equipo que iba perdiendo gana, se producirá este evento.
+- Al ganar un set.
+- Al ganar el partido.
 
-## Adding custom sounds
+## Añadir Sonidos Extra
 
-To add custom sounds click the `Add sounds` button. If you didn't give permissions to the app, you will be requested to do so.
+Para añadir sonidos extra haz clic en el botón `Añadir Sonidos`. Si no le diste permisos de almacenamiento a la app, se te solicitará hacerlo.
 
-Here you can choose one of 2 things.
+Aquí puedes elegir entre:
 
-- A single `.ogg` file
-- A folder containing multiple `.ogg` files
+- Un único fichero `.ogg`
+- Una carpeta que contenga varios ficheros `.ogg`
 
 !!! note
-    Currently the app only supports `.ogg` files, but I will try to improve this in the future.
+    A día de hoy la app solo soporta ficheros `.ogg`, pero intentaré mejorar esto en el futuro.
 
 ![Files](../assets/files.png "Files"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-These files will be added to the category that was currently selected on the dropdown menu.
+Estos archivos se añadirán a la categoría que estaba seleccionada en el desplegable central.
 
 !!! warning
-    Please note that sounds must be less than **1 Megabyte** and **10 seconds.**
+    Ten en cuenta de que los sonidos tienen que ocupar menos de **1 Megabyte** y durar menos de **10 segundos.**
 
-    Also the sounds for **scoring** will last only **2 seconds** and the rest will last **5 seconds**. The rest of the sound will be faded out.
+    También mencionar que los sonidos de **puntuación** durarán solo **2 segundos** y el resto durarán **5 segundos**. Al resto del sonido se le aplicará un efecto de desvanecimiento (fade out).
 
-    This is done to prevent very long sounds from taking too much time.
+    Esto se hace para evitar que los sonidos tarden mucho en reproducirse del todo y agilizar el partido.
 
-### Adding custom sounds faster
+### Añadir sonidos extra de forma rápida
 
-There's a faster way to add a lot of sounds with just one single folder: by creating a folder structure already categorized.
+Hay una forma más rápida de añadir muchos sonidos con solo 1 carpeta: creando una estructura de carpetas ya categorizada.
 
-To do so, create a folder with the following structure (our folder will be called ``YourCustomSounds`` as an example)
+Para ello, crea una carpeta con la siguiente estructura (como ejemplo nuestra carpeta se llamará `MisSonidosExtra`)
 
 ```bash
-/YourCustomSounds
+/MisSonidosExtra
 ├── comeback_game
 ├── comeback_scoring
 ├── quick_game
@@ -63,20 +62,17 @@ To do so, create a folder with the following structure (our folder will be calle
 └── win_set
 ```
 
-Copy this folder to your device. Then, inside the app, after clicking ``Add Sounds`` select the folder ``YourCustomSounds`` and the app will scan and add automatically all the sounds in each category.
+Copia esta carpeta a tu dispositivo. Después, en la app, al clicar `Añadir Sonidos` selecciona esta carpeta `MisSonidosExtra` y la app añadirá automáticamente todos los sonidos en cada categoría.
 
-## Editing Custom Sounds
+## Editar Sonidos Extra
 
-You can edit your custom sounds by interacting with the list of custom sounds in this screen. For each sound you can edit its name,
-increase or decrease its volume slightly and test it. When you make a change, a save button will appear so you can save your changes.
+Puedes editar los sonidos extra pulsando en las distintas opciones de la lista de sonidos extra de esta pantalla. Por cada sonido puedes editar su nombre, aumentar o disminuir su volumen relativo y probar cómo suena. Cuando hagas un cambio, el botón de guardado aparecerá para que puedas guardar los cambios.
 
-If you want to move the sound to another category, press the select button at the left of the custom sound panel, and click on the ``Move Sounds`` button above
-(make sure you have selected the category you want to move the sounds to).
+Si quieres mover el sonido a otra categoría, pulsa el botón de seleccionar sonido que está a la izquierda del panel del sonido extra, y haz clic en el botón de `Mover Sonidos` que está arriba (asegúrate de que has seleccionado la categoría a la que quieres mover el sonido en el desplegable de arriba).
 
-## Deleting Custom Sounds
+## Borrar Sonidos Extra
 
-If you want to delete one or multiple sounds, press the select button at the left of the custom sound panel for each sound you want to delete,
-and click on the ``Delete Sounds`` button above. A confirmation popup will appear.
+Si quieres borrar uno o varios sonidos extra, pulsa el botón de selección a la derecha del panel de cada sonido extra que quieras borrar. Después pulsa el botón `Borrar Sonidos` de la parte superior. Un popup de confirmación aparecerá para confirmar que quieres borrar los sonidos.
 
 !!! note
-    This will NOT delete the original files, just the reference that Padel Counter keeps internally.
+    Esto NO borrará los ficheros originales, sólo la referencia que guarda internamente Contador Pádel.

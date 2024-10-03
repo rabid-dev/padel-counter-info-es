@@ -1,7 +1,7 @@
-# Settings
+# Ajustes
 
-- [General Settings](./general.md)
-- [Team Settings](./teams.md)
-- [Controls](./controls.md)
-- [Custom Sounds](./custom_sounds.md)
+- [Ajustes Generales](./general.md)
+- [Ajustes de Equipos](./teams.md)
+- [Controles](./controls.md)
+- [Sonidos Extra](./custom_sounds.md)
 - [ITAG](itag.md)

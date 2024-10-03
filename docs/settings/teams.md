@@ -1,23 +1,24 @@
-# Teams
+# Ajustes de Equipos
 
 ![Teams](../assets/teams.png "Teams"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-In this screen you will be able to create, edit and delete teams to use in your padel matches.
+En esta pantalla podrás crear, editar y borrar equipos para usar en tus partidas de pádel.
 
-### Create a team
-To create a new team choose the option `Create new team` in the dropdown.
+## Crear equipo
 
-Then fill the form with `Team name`, `Player 1 Name`, `Player 2 Name` and `Team Color`.
+Para crear un nuevo equipo elige la opción `Crear equipo` en el desplegable.
+
+Después, rellena el formulario con el `Nombre de Equipo`, `Nombre de Jugador 1`, `Nombre de Jugador 2` y `Color de Equipo`.
 
 !!! warning
-    Team and player names are limited to only alphanumeric characters and 20 characters long.
+    Los nombres de equipo y jugadores están limitados a caracteres alfanuméricos y solo de 20 caracteres máximo.
 
-Click on `Save` button to save the team.
+Haz clic en el botón de `Guardar` para guardar el equipo.
 
-### Edit a team
+## Editar equipo
 
-If you want to edit a team, simply select it on the dropdown and make the changes you want, then click on `Save`
+Si quieres editar un equipo, primero selecciona el equipo en el desplegable, haz los cambios que desees y después haz clic en `Guardar`.
 
-### Delete a team
+## Borrar equipo
 
-To delete a team, select it in the dropdown menu and press the `Delete` button and accept the confirmation popup that will appear.
+Para borrar un equipo, selecciónalo en el desplegable y pulsa el botón `Borrar`. Acepta el popup de confirmación que aparecerá y se borrará el equipo.

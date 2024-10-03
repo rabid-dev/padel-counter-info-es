@@ -1,20 +1,20 @@
-# Counter Screen
+# Pantalla del Contador
 
-This is the main screen of Padel Counter, where the score is kept.
+Esta es la pantalla principal de Contador Pádel, donde se lleva la cuenta de la puntuación.
 
 ![Counter](../assets/counter.png "Counter"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-Double tapping the screen on each side will increment the score for each team.
+Tocar dos veces la pantalla en cada lado incrementará la puntuación de cada equipo, respectivamente.
 
-If you have mapped a controller in the Controls section of the settings, you can also double press that input to increment the score.
+Si has mapeado un mando/controlador en la sección de Controles de los Ajustes, también puedes pulsar dos veces dicha entrada para aumentar la puntuación.
 
-In the bottom right corner there's a menu button you can press to show the following options:
+En la esquina inferior derecha hay un botón de menú que puedes pulsar para mostrar las siguientes opciones:
 
 ![Counter Menu](../assets/countermenu.png "Counter Menu"){: style="display:block;margin-left:auto;margin-right:auto;width:80%;padding-top:10px;padding-bottom:10px;"}
 
-- Close menu: Pretty self explanatory.
-- Who serves?: Replays the animation that shows who serves the ball in this game.
-- Undo: Undo the last scoring action.
-- Status: The announcer narrates the current status of the match: sets, games, scores and service.
-- Settings: Shows the settings menu. Only options editable from within a match will appear.
-- Leave game: Press this button to leave the current match.
+- Cerrar menú: Creo que se entiende por sí solo.
+- ¿Quién saca?: Reproduce de nuevo la animación que muestra quién saca en este juego.
+- Deshacer: Deshace el último incremento de puntuación.
+- Estado: El presentador narra el estado actual del partido: sets, juegos, puntos y saque.
+- Ajustes: Muestra el menú de ajustes. Sólo muestra los ajustes que son editables durante el partido.
+- Dejar partido: Pulsa este botón para salir del partido actual.

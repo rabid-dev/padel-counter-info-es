@@ -2,16 +2,20 @@
 
 ![Padel Counter](./assets/padelcountertitle.png "Padel Counter"){: style="display:block;margin-left:auto;margin-right:auto;width:75%"}
 
-This is the documentation for Padel Counter, the app I made to track score of padel matches!
+¡Esta es la documentación de Contador Pádel, la aplicación que he hecho para llevar la cuenta de tus partidos de pádel!
 
-Here you will find all the documentation related to the app.
+Puedes **cambiar de idioma** en el selector de idioma (language) en **la barra de navegación superior**.
 
-You can find **other languages** at the language selector within **the top navigation bar**
+¡Haz click en uno de los siguientes enlaces para empezar!
 
-Click one of the links below to start reading!
+- [Configuración Recomendada](./setup.md)
+- [Guía de Inicio Rápido](./quickstart.md)
+- [Opciones del Contador](./counter/counter.md)
+- [Ajustes](./settings/index.md)
+- [Ayuda/Informar de un problema](./help.md)
 
-- [Recommended Setup](./setup.md)
-- [Quick Start Guide](./quickstart.md)
-- [Counter Configuration](./counter/counter.md)
-- [Settings](./settings/index.md)
-- [Help/Report an issue](./help.md)
+## Apoya el proyecto
+
+Contador Pádel es una aplicación gratuita, pero si quieres apoyar el proyecto de alguna forma, puedes donar la cantidad que quieras en mi perfil de Ko-Fi.
+
+[Clic aquí para ir a mi perfil de Ko-Fi.](https://ko-fi.com/rabidrabid)

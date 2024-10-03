@@ -1,11 +1,11 @@
-# Controls
+# Controles
 
 ![Controls](../assets/controls.png "Controls"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-In this screen you can remap actions to different input methods, for example a bluetooth gamepad/keyboard.
+En esta pantalla puedes remapear acciones a diferentes métodos de entrada, por ejemplo un mando/teclado bluetooth.
 
-Simply press the button `Touch to assign` and then press some key/button to map it.
+Pulsa el botón `Toca para asignar` y a continuación pulsa un botón/tecla para remapearlo.
 
-If you want to cancel the remapping, press the button again.
+Si quieres cancelar el remapeo, simplemente pulsa el botón de nuevo.
 
-If you want to delete a remapping, map 2 times the mapping button and it will be restored.
+Si quieres borrar un mapeo, pulsa 2 veces dicho botón de remapeo y se borrará el mapeo.

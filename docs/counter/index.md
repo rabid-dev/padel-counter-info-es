@@ -1,5 +1,5 @@
-# Counter Configuration
+# Opciones del Contador
 
-- [Match Settings](./match.md)
-- [Team Select](./teams.md)
-- [Counter Screen Settings](./counter.md)
+- [Opciones de Partido](./match.md)
+- [Selección de Equipos](./teams.md)
+- [Pantalla del Contador](./counter.md)

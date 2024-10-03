@@ -1,41 +1,40 @@
-# General Settings
+# Ajustes Generales
 
 ![General](../assets/general.png "General"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
 
-In this screen you can configure some general app settings.
+En esta pantalla puedes configurar algunos ajustes generales.
 
-## Language
+## Idioma
 
-Change the language of the app. Currently only english and spanish are supported.
-
-!!! info
-    Want your language to be supported? [Contact me!](../help.md)
-
-## Global volume
-
-Sets the global volume for the app. This includes all of the below volumes.
-
-## Music volume
-
-Sets the music volume. Currently only the main menu music will be affected.
-
-## Voice volume
-
-Sets the volume from the announcer. A voice line will play to test it.
-
-## Enable Custom Sounds
-
-Enables custom sounds. For more details in custom sounds, please check the [Custom Sounds page](./custom_sounds.md)
-
-## Custom Sounds Volume
+Cambia el idioma de la aplicación. Actualmente solo están disponibles inglés y español.
 
 !!! info
-    This setting will only show if [**Custom Sounds**](./general.md#enable-custom-sounds) are enabled
-Sets the volume for custom sounds. A sound will play to test it.
+    ¿Quieres que añada otro idioma? [¡Escríbeme!](../help.md)
 
-## Custom Sounds Chance
+## Volumen Global
+
+Ajusta el volumen global de la aplicación. Esto afecta a todos los volúmenes descritos abajo.
+
+## Volumen de Música
+
+Ajusta el volumen de la música. Actualmente solo hay música en el menú principal.
+
+## Volumen de Voz
+
+Ajusta el volumen de voz del presentador. Al cambiar el valor el presentador dirá algo para hacer la prueba.
+
+## Activar Sonidos Extra
+
+Activa los Sonidos Extra. Para más detalles acerca de los sonidos extra, échale un ojo a la [página de Sonidos Extra](./custom_sounds.md)
+
+## Volumen de Sonidos Extra
 
 !!! info
-    This setting will only show if [**Custom Sounds**](./general.md#enable-custom-sounds) are enabled
-Sets the probability of custom sounds playing whenever a custom sound should play. A chance of 100% means that a custom sound
-will always play whenever conditions for a custom sound are met.
+    Este ajuste sólo se mostrará si los [**Sonidos Extra**](./general.md#enable-custom-sounds) están activados
+Ajusta el volumen de los sonidos extra. Se escuchará un sonido para hacer la prueba.
+
+## Probabilidad de Sonidos Extra
+
+!!! info
+    Este ajuste sólo se mostrará si los [**Sonidos Extra**](./general.md#enable-custom-sounds) están activados
+Ajusta la probabilidad de que suene un sonido extra siempre que se produzcan las circunstancias para reproducir uno. Una probabilidad del 100% significa que el sondio extra sonará siempre que se produzcan las condiciones para ello.

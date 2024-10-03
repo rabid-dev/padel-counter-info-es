@@ -1,39 +1,37 @@
-# Recommended Setup
+# Configuración Recomendada
 
-## Summary
-This app can be used on any Android device, and as such, you only need one to use it.
+## Resumen
+Esta app se puede usar en cualquier dispositivo Android, y como tal, realmente solo necesitas uno para usarla.
 
-However, in order to be usable comfortably during the match, the best setup is the one that allows you to see the
-score at a distance and also allows to be able to control it remotely, so you don't need to approach the screen to
-increment the score.
+Sin embargo, para poder usarla de forma cómoda durante el partido, la mejor configuración es aquella que
+te permita ver la puntuación a distancia y que también te permita controlarla remotamente, para que no
+tengas que acercarte a la pantalla para aumentar la puntuación.
 
-Because of this, I recommend getting the following gear.
+Debido a esto, te recomiendo el siguiente equipo.
 
-## Recommended gear
+## Equipo Recomendado
 
-1. A **tablet** for bigger screen, so you can see it from a distance. A cheap one will do.
-2. A **tablet grip**, so you can attach it to the fence somehow.
+1. Una **tablet** para tener una pantalla más grande, para que puedas verla a distancia. Cualquier tablet barata servirá.
+2. Una **pinza para tablet**, para que puedas engancharla a la valla como puedas.
   ![Tablet Grip Example](./assets/tabletgrip.png "Tablet Grip Example"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
-3. **Bluetooth speakers**, so you can hear the announcer.
-4. A small remote **bluetooth controller**. The remote bluetooth controller must have some kind of keyboard or gamepad input.
-  This is just an example, anything will do, but the smaller the better so it fits your pocket.
+3. **Altavoces Bluetooth**, para que puedas oír al presentador.
+4. Un **mando bluetooth** pequeño. Este mando debe tener algún tipo de entrada de teclado o de gamepad.
+  Este de aquí es un ejemplo, pero cualquiera puede servir. Lo ideal es que sea lo más pequeño posible para que te quepa en el bolsillo.
   ![Bluetooth Gamepad Example](./assets/controller.png "Bluetooth Gamepad Example"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
-  There are some of them that are used to take pictures remotely, **it is not guaranteed that these will work** because typically the input sent is the same
-  as if you pressed volume up or volume down on your device, and that can't be used as input. (Example of a non-working device below)
+  Hay algunos que venden que se usan para hacer fotos con el móvil a distancia, **estos no está garantizado que vayan a funcionar**, porque normalmente la entrada que envían es equivalente a subir/bajar volumen en tu dispositivo, y eso no se puede usar como entrada. )Ejemplo de un dispositivo que no funciona aquí abajo)
   ![Android Camera Shutter](./assets/camerashutter.png "Android Camera Shutter"){: style="display:block;margin-left:auto;margin-right:auto;width:20%;padding-top:10px;padding-bottom:10px;"}
-  To be 100% sure, make sure that the input sent by these devices is either a keyboard input or gamepad input. Otherwise it might not work
+  Para estar seguro al 100%, asegúrate de que la entrada enviada por el dispositivo sea de teclado o de gamepad. Si no, puede que no funcione.
 
-## Setup
+## Configuración
 
-Download the app on the tablet.
+Descarga la aplicación en la tablet.
 
-Set up the tablet (with the tablet grip) and pair the bluetooth controller to it.
+Instala la tablet con la pinza de la tablet y empareja el controlador bluetooth.
 
-Inside the app, on the settings menu -> controls tab, map the `Increment Score A` and `Increment Score B` actions to any button on the remote gamepad.
-(More details on how the remapping works on the [Controls](./settings/controls.md) page)
+En la aplicación, en el menú de ajustes -> pestaña de controles, mapea las acciones `Puntuar equipo A` y `Puntuar Equipo B` a cualquier botón en el mando bluetooth. (Más detalles acerca de cómo funciona el remapeo en la página de [Controles](./settings/controls.md))
 
-And that's it! Now you can start playing and count your score without having to approach the device.
+¡Y ya estaría! Ahora puedes empezar a jugar y contar la puntuación sin tener que acercarte al dispositivo.
 
 ![Bluetooth Gamepad Example](./assets/pfp.jpg "Bluetooth Gamepad Example"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
 
-Follow the [Quick Start Guide](./quickstart.md) for next steps!
+¡Sigue la [Guía de Inicio Rápido](./quickstart.md) para ver qué más puedes hacer!
