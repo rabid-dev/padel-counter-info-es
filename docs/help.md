@@ -7,6 +7,7 @@ La app acaba de salir, por lo que no tengo ningún servidor de Discord ni comuni
 ```
 contact [arroba] rabid [punto] es
 ```
+
 No puedo poner mi correo tal cual debido a los bots que pululan por la web, pero espero que puedas apañártelas para escribirme un correo con esta información.
 
 ## Informar de un problema
