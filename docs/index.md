@@ -32,4 +32,4 @@ Contador Pádel es una aplicación gratuita, pero si quieres apoyar el proyecto 
 - [Shader de fondo en movimiento](https://www.youtube.com/watch?v=cObwzagwgmA) - hecho por [Bacon and Games](https://www.youtube.com/@baconandgames)
 - [Shader de llamas](https://www.youtube.com/watch?v=sCIr_58NN48) - hecho por [Heartbeast](https://www.youtube.com/@uheartbeast)
 - [Godot BLE Android Plugin](https://github.com/IM-TWIN/BLE-Android-Plugin), usado para hacer esta app compatible con iTAG - hecho por [francescaromana](https://github.com/francescaromana), [valeriosperati](https://github.com/valeriosperati) y [schembrimax](https://github.com/schembrimax)
-- Agradecimientos especiales al equipo y colaboradores de [Godot Engine](https://godotengine.org) por haber hecho el motor en el que se hizo esta app"
+- Agradecimientos especiales al equipo y colaboradores de [Godot Engine](https://godotengine.org) por haber hecho el motor en el que se hizo esta app
