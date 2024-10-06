@@ -37,7 +37,6 @@ nav:
     - Equipos: settings/teams.md
     - Controles: settings/controls.md
     - Sonidos Extra: settings/custom_sounds.md
-    - Dispositivos ITAG: settings/itag.md
   - Ayuda/Informar de un problema: help.md
 extra:
   alternate:
