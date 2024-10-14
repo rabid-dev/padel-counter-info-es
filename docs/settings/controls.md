@@ -4,8 +4,4 @@
 
 En esta pantalla puedes remapear acciones a diferentes métodos de entrada, por ejemplo un mando/teclado bluetooth.
 
-Pulsa el botón `Toca para asignar` y a continuación pulsa un botón/tecla para remapearlo.
-
-Si quieres cancelar el remapeo, simplemente pulsa el botón de nuevo.
-
-Si quieres borrar un mapeo, pulsa 2 veces dicho botón de remapeo y se borrará el mapeo.
+Cada acción tiene 4 botones de remapeo. Al pulsar uno de ellos aparecerá una cuenta atrás para que pulses el botón que quieras asignar a dicha acción. Si quieres quitar un botón de una acción, simplemente espera a que acabe el tiempo.

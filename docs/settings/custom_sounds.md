@@ -8,6 +8,8 @@ Los sonidos extra son sonidos cortos que se reproducirán en diferentes circunst
 
 Para usarlos recuerda que tienes que activar la opción [Activar Sonidos Extra](./general.md#activar-sonidos-extra) en la pestaña de [Ajustes Generales](./general.md).
 
+También puedes añadir algunos sonidos de ejemplo usando el botón `Añadir sonidos ejemplo`
+
 ## Categorías de Sonidos Extra
 
 A día de hoy los sonidos extra se reproducirán en las siguientes circunstancias.
