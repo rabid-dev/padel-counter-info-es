@@ -31,4 +31,10 @@ Contador Pádel es una aplicación gratuita, pero si quieres apoyar el proyecto 
 - Texto a voz obtenido de [BeepBooply](https://beepbooply.com/)
 - [Shader de fondo en movimiento](https://www.youtube.com/watch?v=cObwzagwgmA) - hecho por [Bacon and Games](https://www.youtube.com/@baconandgames)
 - [Shader de llamas](https://www.youtube.com/watch?v=sCIr_58NN48) - hecho por [Heartbeast](https://www.youtube.com/@uheartbeast)
+- Para los sonidos extra de ejemplo se usaron los siguientes sonidos:
+  - [Video Game Cheerful Ending](https://opengameart.org/content/video-game-cheerful-ending)
+  - [Fireworks With Applause Happy People](https://opengameart.org/content/fireworks-with-applause-happy-people)
+  - [Pure Aluminum Warfare Bunker Day 28](https://opengameart.org/content/pure-aluminum-warfare-bunker-day-28)
+  - [Stick to it Day 17](https://opengameart.org/content/stick-to-it-day-17)
+  - [Kenney Music Jingles](https://kenney.nl/assets/music-jingles)
 - Agradecimientos especiales al equipo y colaboradores de [Godot Engine](https://godotengine.org) por haber hecho el motor en el que se hizo esta app
