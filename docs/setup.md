@@ -32,6 +32,6 @@ En la aplicación, en el menú de ajustes -> pestaña de controles, mapea las ac
 
 ¡Y ya estaría! Ahora puedes empezar a jugar y contar la puntuación sin tener que acercarte al dispositivo.
 
-![Configuración completa](./assets/padel.gif "Configuración completa"){: style="display:block;margin-left:auto;margin-right:auto;width:20%;padding-top:10px;padding-bottom:10px;"}
+![Configuración completa](./assets/padel.gif "Configuración completa"){: style="display:block;margin-left:auto;margin-right:auto;width:70%;padding-top:10px;padding-bottom:10px;"}
 
 ¡Sigue la [Guía de Inicio Rápido](./quickstart.md) para ver qué más puedes hacer!
