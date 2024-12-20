@@ -1,6 +1,7 @@
 # Configuración Recomendada
 
 ## Resumen
+
 Esta app se puede usar en cualquier dispositivo Android, y como tal, realmente solo necesitas uno para usarla.
 
 Sin embargo, para poder usarla de forma cómoda durante el partido, la mejor configuración es aquella que
@@ -18,7 +19,10 @@ Debido a esto, te recomiendo el siguiente equipo.
 4. Un **mando bluetooth** pequeño. Este mando debe tener algún tipo de entrada de teclado o de gamepad.
   Este de aquí es un ejemplo, pero cualquiera puede servir. Lo ideal es que sea lo más pequeño posible para que te quepa en el bolsillo.
   ![Bluetooth Gamepad Example](./assets/controller.png "Bluetooth Gamepad Example"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
-  Hay algunos que venden que se usan para hacer fotos con el móvil a distancia, **estos no está garantizado que vayan a funcionar**, porque normalmente la entrada que envían es equivalente a subir/bajar volumen en tu dispositivo, y eso no se puede usar como entrada. (Ejemplo de un dispositivo que **no funciona** aquí abajo)
+  ![Bluetooth Gamepad Example 2](./assets/8bitdogamepad.jpg "Bluetooth Gamepad Example 2"){: style="display:block;margin-left:auto;margin-right:auto;width:25%;padding-top:10px;padding-bottom:10px;"}
+  Hay algunos que venden que se usan para hacer fotos con el móvil a distancia, **estos no está garantizado que vayan a funcionar**, porque normalmente la entrada que envían es equivalente a subir/bajar volumen en tu dispositivo, y eso no se puede usar como entrada.
+  
+  (Ejemplo de un dispositivo que **no funciona** aquí abajo)
   ![Android Camera Shutter](./assets/camerashutter.png "Android Camera Shutter"){: style="display:block;margin-left:auto;margin-right:auto;width:20%;padding-top:10px;padding-bottom:10px;"}
   Para estar seguro al 100%, asegúrate de que la entrada enviada por el dispositivo sea de teclado o de gamepad. Si no, puede que no funcione.
 

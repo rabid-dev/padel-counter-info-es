@@ -14,11 +14,17 @@ Puedes **cambiar de idioma** en el selector de idioma (language) en **la barra d
 - [Ajustes](./settings/index.md)
 - [Ayuda/Informar de un problema](./help.md)
 
+## Actualizaciones futuras
+
+En este enlace se encuentra [el tablero de Trello](https://trello.com/b/eJKpHkLC/padel-counter-roadmap) (en inglés) en el que podrás ver lo que se viene en futuras actualizaciones de la app!
+
 ## Apoya el proyecto
 
 Contador Pádel es una aplicación gratuita, pero si quieres apoyar el proyecto de alguna forma, puedes donar la cantidad que quieras en mi perfil de Ko-Fi.
 
 [Clic aquí para ir a mi perfil de Ko-Fi.](https://ko-fi.com/rabidrabid)
+
+[¡También puedes donar por PayPal si lo prefieres!](https://www.paypal.com/donate/?hosted_button_id=XEDL2KNTM34SE&locale.x=es_ES)
 
 ## Créditos
 
@@ -32,9 +38,9 @@ Contador Pádel es una aplicación gratuita, pero si quieres apoyar el proyecto 
 - [Shader de fondo en movimiento](https://www.youtube.com/watch?v=cObwzagwgmA) - hecho por [Bacon and Games](https://www.youtube.com/@baconandgames)
 - [Shader de llamas](https://www.youtube.com/watch?v=sCIr_58NN48) - hecho por [Heartbeast](https://www.youtube.com/@uheartbeast)
 - Para los sonidos extra de ejemplo se usaron los siguientes sonidos:
-    - [Video Game Cheerful Ending](https://opengameart.org/content/video-game-cheerful-ending)
-    - [Fireworks With Applause Happy People](https://opengameart.org/content/fireworks-with-applause-happy-people)
-    - [Pure Aluminum Warfare Bunker Day 28](https://opengameart.org/content/pure-aluminum-warfare-bunker-day-28)
-    - [Stick to it Day 17](https://opengameart.org/content/stick-to-it-day-17)
-    - [Kenney Music Jingles](https://kenney.nl/assets/music-jingles)
+  - [Video Game Cheerful Ending](https://opengameart.org/content/video-game-cheerful-ending)
+  - [Fireworks With Applause Happy People](https://opengameart.org/content/fireworks-with-applause-happy-people)
+  - [Pure Aluminum Warfare Bunker Day 28](https://opengameart.org/content/pure-aluminum-warfare-bunker-day-28)
+  - [Stick to it Day 17](https://opengameart.org/content/stick-to-it-day-17)
+  - [Kenney Music Jingles](https://kenney.nl/assets/music-jingles)
 - Agradecimientos especiales al equipo y colaboradores de [Godot Engine](https://godotengine.org) por haber hecho el motor en el que se hizo esta app

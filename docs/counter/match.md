@@ -1,8 +1,11 @@
 # Opciones de Partido
 
-En la pantalla de `Opciones de Partido` encontrarás los siguientes ajustes.
+En la pantalla de `Opciones de Partido` puedes editar los ajustes del partido. También puedes 
+guardar la configuración como un perfil para usarla en el futuro.
 
 ![MatchSettings](../assets/matchsettings.png "MatchSettings"){: style="display:block;margin-left:auto;margin-right:auto;width:60%;padding-top:10px;padding-bottom:10px;"}
+
+En esta pantalla encontrarás los siguientes ajustes.
 
 ## Opciones de Puntuación de Juegos
 
