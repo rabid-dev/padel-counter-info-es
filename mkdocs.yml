@@ -34,7 +34,6 @@ nav:
     - Pantalla del Contador: counter/counter.md
   - Ajustes:
     - General: settings/general.md
-    - Equipos: settings/teams.md
     - Controles: settings/controls.md
     - Sonidos Extra: settings/custom_sounds.md
   - Ayuda/Informar de un problema: help.md
