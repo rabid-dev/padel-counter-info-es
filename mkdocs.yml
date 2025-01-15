@@ -1,5 +1,5 @@
 site_name: Documentación Contador Pádel
-site_url: https://contadorpadel.rabid.es
+site_url: https://es.docs.padel.rabid.es
 markdown_extensions:
   - attr_list
   - admonition
@@ -40,8 +40,8 @@ nav:
 extra:
   alternate:
     - name: English
-      link: https://padelcounter.rabid.es
+      link: https://docs.padel.rabid.es
       lang: en
     - name: Spanish
-      link: https://contadorpadel.rabid.es
+      link: https://es.docs.padel.rabid.es
       lang: es
